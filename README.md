@@ -1,1 +1,1 @@
-# lora_gateway_esp8266
+# Gateway for LoRa using ESP8266
